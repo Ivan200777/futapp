@@ -50,19 +50,6 @@ All the code is documented with Javadoc.
    javadoc -d docs src/*.java
 ```
 
-## Project Structure
-
-The project is organized as follows:
-
-```text
-futapp/
-├── src/
-│   ├── Jugador.java
-│   └── Main.java
-├── out/
-├── docs/
-├── README.md
-└── CONTRIBUTING.md
 ## Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before making changes.
